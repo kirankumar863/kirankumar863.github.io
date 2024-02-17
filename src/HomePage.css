@@ -1,0 +1,21 @@
+.homepage{
+    background-color: cadetblue;
+    width: 100%;
+    height: 100vh;
+
+}
+ .homepage2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 3%;
+    background-color: darkgray;
+ }
+ .blogs{
+    display: flex;
+    justify-content: center;
+
+ }
+ .link{
+    font-size: 50px;
+    color: black;
+ }
